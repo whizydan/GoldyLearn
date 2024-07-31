@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        app:showAsAction="always"
+        android:icon="@drawable/home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Home" />
+    <item
+        android:id="@+id/course"
+        app:showAsAction="always"
+        android:icon="@drawable/course"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Course" />
+    <item android:title="" />
+    <item
+        android:id="@+id/message"
+        app:showAsAction="always"
+        android:icon="@drawable/message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Message" />
+    <item
+        android:id="@+id/account"
+        app:showAsAction="always"
+        android:icon="@drawable/account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Account" />
+</menu>

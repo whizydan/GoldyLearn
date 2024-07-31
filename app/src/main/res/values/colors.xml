@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFF</color>
+    <color name="red">#FF3D49</color>
+    <color name="heading">#261F39</color>
+    <color name="body_text">#858597</color>
+    <color name="get_started">#FF6905</color>
+    <color name="meetup">#440687</color>
+    <color name="meetup_card">#EFE0FF</color>
+    <color name="phone_settings">#FFE7EE</color>
+    <color name="social_media">#BAD6FF</color>
+    <color name="phone_navigation">#BAE0DB</color>
+
+</resources>
